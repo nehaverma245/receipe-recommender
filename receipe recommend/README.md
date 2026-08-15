@@ -18,7 +18,7 @@ fuzzy-matched search, ingredient substitutes, and nutrition-goal filtering).
 ## Run it locally
 
 ```bash
-cd recipe_app
+cd receipe recommend
 pip install -r requirements.txt
 streamlit run app.py
 ```
